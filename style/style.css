@@ -4,8 +4,8 @@ body {
 
 #header {
 	paddin: 10px;
-	border: 2px solid blue;
-	border-radius: 5px;
+	background-color: #ccc0c0;
+	border-radius: 10px;
 }
 
 
@@ -13,13 +13,13 @@ body {
         paddin: 10px;
         border: 2px solid white;
 	background-color: #ccc0c0;
-        border-radious: 5px;
+        border-radius: 10px;
 }
 
 #footer {
         paddin: 10px;
-        border: 2px solid blue;
-        border-radious: 5px;
+        background-color: #ccc0c0;
+        border-radius: 10px;
 }
 
 p{
