@@ -21,3 +21,8 @@ body {
         border: 2px solid blue;
         border-radious: 5px;
 }
+
+p{
+	font-family:Verdana, Tahoma, sans-serif;
+	color: #265857;
+}
