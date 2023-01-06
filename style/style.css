@@ -1,3 +1,23 @@
 body {
 	background-color:#b192e7;
 }
+
+#header {
+	paddin: 10px;
+	border: 2px solid blue;
+	border-radious: 5px;
+}
+
+
+#content {
+        paddin: 10px;
+        border: 2px solid white;
+	background-color: #ccc0c0;
+        border-radious: 5px;
+}
+
+#footer {
+        paddin: 10px;
+        border: 2px solid blue;
+        border-radious: 5px;
+}
